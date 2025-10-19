@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/main/Contact%20%2B%20505%208492-1592%20%20hello@reallygreatsite.co%20(1100%20x%20350%20px).jpg" 
+  <img src="https://github.com/YourUsername/YourUsername/blob/main/baner.jpg" 
        alt="Banner" 
        width="100%" 
        style="max-width:1100px; height:auto;" />
